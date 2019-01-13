@@ -1,0 +1,9 @@
+---
+layout: share
+title: Musicmap
+date: '2019-01-13 19:41:04 +0900'
+original: 'https://musicmap.info/'
+discussion: 'https://news.ycombinator.com/item?id=18887141'
+---
+
+Interesting mapping of music genres
