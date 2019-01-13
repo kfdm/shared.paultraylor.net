@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: twitter
 title: Code Cleric
 original: 'https://twitter.com/evangoer/statuses/447049913310797824'
 ---

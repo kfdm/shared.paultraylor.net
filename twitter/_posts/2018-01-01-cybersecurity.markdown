@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: twitter
 title: Cybersecurity
 original: 'https://twitter.com/PeterNHess/statuses/947612630499422214'
 ---

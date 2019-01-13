@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: twitter
 title: Commute Time
 original: 'https://twitter.com/coates/statuses/494191921686790145'
 ---

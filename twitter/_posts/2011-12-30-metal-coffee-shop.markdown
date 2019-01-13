@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: twitter
 title: Metal Coffee Shop
 original: 'https://twitter.com/Caged/statuses/152441613560463360'
 ---

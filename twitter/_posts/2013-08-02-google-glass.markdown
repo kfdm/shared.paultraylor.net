@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: twitter
 title: Google Glass
 original: 'https://twitter.com/MVPoliceBlotter/statuses/363276999420153856'
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: twitter
 title: Lean Startup
 original: 'https://twitter.com/WeGame/statuses/8099679181'
 ---

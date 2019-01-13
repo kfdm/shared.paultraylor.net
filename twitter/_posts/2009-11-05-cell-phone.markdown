@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: twitter
 title: Cell Phone
 original: 'https://twitter.com/shitmydadsays/statuses/5427015317'
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: twitter
 title: Articulating
 original: 'https://twitter.com/dpaola2/statuses/656575987509936128'
 ---

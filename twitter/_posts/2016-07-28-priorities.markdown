@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: twitter
 title: Priorities
 original: 'https://twitter.com/dpaola2/statuses/758486390426394625'
 ---

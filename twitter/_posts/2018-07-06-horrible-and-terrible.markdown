@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: twitter
 title: Horrible and Terrible
 original: 'https://twitter.com/juliusvolz/statuses/1015001683859070976'
 ---

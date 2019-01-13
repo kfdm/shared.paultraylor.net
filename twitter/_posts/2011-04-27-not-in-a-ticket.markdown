@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: twitter
 title: Not in a Ticket
 original: 'https://twitter.com/boredzo/statuses/63104290373386240'
 ---

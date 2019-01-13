@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: twitter
 title: Free Apps
 original: 'https://twitter.com/dankim/statuses/975854126138617857'
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: twitter
 title: Like an Internet Browser
 original: 'https://twitter.com/RaminNasibov/statuses/1018247156585652225'
 ---
