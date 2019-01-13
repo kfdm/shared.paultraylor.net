@@ -1,0 +1,14 @@
+---
+title: Tweets
+layout: post
+permalink: /twitter/
+---
+
+{% for post in site.categories.twitter %}
+<blockquote class="twitter-tweet">
+    {{post.content}}
+    <a href="{{post.original}}">{{post.date}}</a>
+</blockquote>
+{% endfor %}
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

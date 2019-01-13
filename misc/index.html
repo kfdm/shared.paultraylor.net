@@ -1,0 +1,12 @@
+---
+title: Misc
+layout: post
+permalink: /misc/
+---
+
+{% for post in site.categories.misc %}
+<h2>
+    <a href="{{post.original}}">{{post.title}}</a><small>{{post.date}}</small>
+</h2>
+<p>{{post.excerpt}}</p>
+{% endfor %}
