@@ -1,0 +1,10 @@
+---
+layout: share
+title: Arc App - Location & activity
+original: 'https://itunes.apple.com/us/app/arc-app-location-activity/id1063151918?mt=8'
+tags:
+  - ios
+  - location
+---
+
+Arc App continues to be the gold standard in accurate location detection.
