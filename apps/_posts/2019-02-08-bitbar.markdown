@@ -1,0 +1,9 @@
+---
+layout: share
+title: Bitbar
+original: 'https://github.com/matryer/bitbar'
+tags:
+  - macos
+---
+
+Useful app for putting status in toolbar
